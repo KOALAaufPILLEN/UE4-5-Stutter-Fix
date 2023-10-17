@@ -1,4 +1,4 @@
-# UE4-5-Stutter-Fix
+# UE4-5 Stutter-Fix 🐨
 Unreal Engine 4 - 5 Stutter Fix
 1 - Go to your file explorer and paste the following: C:\Users\%username%\AppData\Local
 
