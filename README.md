@@ -1,4 +1,7 @@
 # UE4-5 Stutter-Fix 🐨
+
+![koala](https://github.com/KOALAaufPILLEN/UE4-5-Stutter-Fix/assets/92574026/5c2ae6c1-4ab4-47f2-bc28-6c83f96a6d80)
+
 Unreal Engine 4 - 5 Stutter Fix
 1 - Go to your file explorer and paste the following: C:\Users\%username%\AppData\Local
 
